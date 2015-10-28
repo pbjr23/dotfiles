@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+#	user = Prakhar Bhandari
+#	email = prakhar23.bhandari@gmail.com
+[user]
+	name = Prakhar Bhandari
+	email = prakhar23.bhandari@gmail.com

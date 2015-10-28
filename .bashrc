@@ -1,0 +1,6 @@
+alias ll='ls -l'
+alias vi='vim'
+alias extracttar='tar -xvf'
+alias compresstar='tar -czvf'
+alias gs='git status'
+alias gd='git diff'
